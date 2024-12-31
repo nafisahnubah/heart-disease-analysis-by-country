@@ -4,11 +4,11 @@ This project investigates the factors influencing heart disease occurrence numbe
 
 ## Datasets
 
-The following datasets were used in this analysis:
+The following datasets from Kaggle were used in this analysis:
 
-1. **Heart Attack Risk Prediction Dataset**: Contains heart disease risk data by country.
-2. **Alcohol Consumption by Country**: Provides data on alcohol consumption per capita by country.
-3. **Global Air Pollution Dataset**: Contains the Air Quality Index (AQI) values by city for each country.
+1. [**Heart Attack Risk Prediction Dataset**](https://www.kaggle.com/datasets/iamsouravbanerjee/heart-attack-prediction-dataset): Contains heart disease risk data by country.
+2. [**Alcohol Consumption by Country**](https://www.kaggle.com/datasets/pralabhpoudel/alcohol-consumption-by-country): Provides data on alcohol consumption per capita by country.
+3. [**Global Air Pollution Dataset**](https://www.kaggle.com/datasets/hasibalmuzdadid/global-air-pollution-dataset): Contains the Air Quality Index (AQI) values by city for each country.
 
 ## Objective
 
