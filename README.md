@@ -32,12 +32,15 @@ This pie chart shows the proportion of heart disease occurrences by continent, h
 
 ### 2. Bar Chart: Number of Heart Disease Occurrences by Country
 This bar chart provides a clear comparison of heart disease occurrences across different countries, helping to identify countries with notably high or low numbers. The bars have continuous color coding that reflects the risk level of heart diseases in that country.
+![Number of Heart Disease Occurrences by Country](plots/barchart-heart-disease-by-country.png)
 
 ### 3. Scatter Plot: Heart Disease Occurrence vs. Alcohol Consumption
 A scatter plot was used to explore the potential relationship between alcohol consumption and heart disease rates. A slight positive correlation can be observed, suggesting that higher alcohol consumption might be associated with a higher occurrence of heart disease.
+![Heart Disease Occurrence vs. Alcohol Consumption](plots/scatterplot-heart-disease-vs-alcohol.png)
 
 ### 4. Box Plot: Heart Disease Occurrence vs. AQI
 The box plot reveals an interesting finding: countries with low AQI values tend to have higher mean heart disease occurrences compared to countries with high AQI values.
+![Heart Disease Occurrence vs. AQI](plots/boxplot-heart-disease-by-AQI.png)
 
 ## Conclusions
 
